@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bouton_calculer">Compute</string>
+    <string name="bouton_derniere_operation">Last Compute</string>
+    <string name="bouton_precedent">Previous</string>
+    <string name="toolbar_calculer">Compute</string>
+    <string name="toolbar_nettoyer">Clear</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Value too high</string>
+    <string name="ERROR_DIVISION_ZERO">Divide by 0</string>
+    <string name="r_ponse_utilisateur">Answer</string>
+    <string name="toolbarScore">Score :</string>
+    <string name="btnValider">Validate</string>
+    <string name="suppr">Del</string>
+
+
+
+
+</resources>

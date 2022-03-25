@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Android Calculator</string>
+    <string name="bouton_calculer">Calculer</string>
+    <string name="bouton_derniere_operation">Dernier Calcul</string>
+    <string name="bouton_0" translatable="false">0</string>
+    <string name="bouton_3" translatable="false">3</string>
+    <string name="bouton_2" translatable="false">2</string>
+    <string name="bouton_1" translatable="false">1</string>
+    <string name="bouton_6" translatable="false">6</string>
+    <string name="bouton_5" translatable="false">5</string>
+    <string name="bouton_4" translatable="false">4</string>
+    <string name="bouton_9" translatable="false">9</string>
+    <string name="bouton_8" translatable="false">8</string>
+    <string name="bouton_7" translatable="false">7</string>
+    <string name="bouton_substract" translatable="false">-</string>
+    <string name="bouton_divide" translatable="false">/</string>
+    <string name="bouton_multiply" translatable="false">*</string>
+    <string name="bouton_add" translatable="false">+</string>
+    <string name="bouton_precedent">Précédent</string>
+    <string name="toolbarScore">Score :</string>
+    <string name="toolbarScoreMax">Meilleur score :</string>
+    <string name="toolbar_nettoyer">Nettoyer</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Valeur trop grande</string>
+    <string name="ERROR_DIVISION_ZERO">Division par zero</string>
+    <string name="btnValider">Valider</string>
+    <string name="_3_x_2" translatable="false">3 x 2</string>
+    <string name="r_ponse_utilisateur">Réponse utilisateur</string>
+    <string name="suppr">Suppr</string>
+    <string name="txtvie" translatable="false">♥♥♥</string>
+
+
+</resources>
